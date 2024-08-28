@@ -72,7 +72,7 @@ Saída: O número de gerações e o sucesso (se encontrou a solução ótima).
 # Simulação e Análise de Estatísticas Amostrais (Sim_An_Est_Amostrais.py)
 
 Este programa foi desenvolvido por mim (Guilherme Henrique Bittencourt) como parte da matéria de Métodos Numéricos ministrada pelo Dr. Renato Simões Silva durante meu mestrado no LNCC — Laboratório Nacional de Computação Científica,
-com o objetivo de ensinar e praticar conceitos de estatística inferencial.   
+com o objetivo de praticar conceitos de estatística inferencial.   
 O propósito do programa é simular o comportamento de médias e variâncias amostrais, usando diferentes tamanhos de amostras, e visualizar a distribuição dessas estatísticas.  
 Na pratica o programa lê os dados de arquivos, gera amostras estatísticas, e compara essas amostras com distribuições normais para médias e variâncias. 
 
